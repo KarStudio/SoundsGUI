@@ -1,0 +1,6 @@
+name: KarSoundsGUI
+main: gg.kar.karsoundsgui.Main
+version: 1.0
+author: KarStudio - LSeng
+commands:
+  sounds:
